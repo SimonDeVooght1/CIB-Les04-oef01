@@ -7,3 +7,4 @@ azerty lijn feature/bestand1.md
 een 4de lijn door feature/update-bestand1
 
 Deze lijn zorgt voor een conflict
+iets aanpassen feature/add-bestand2
